@@ -3,8 +3,7 @@
 An independent Software Engineer who loves to create and learn new things about web and technology! 
 
 - 🔭 I’m currently Studying at <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I’m currently learning about machine learning for back-end apps
-- 💬 Feel free to ask me about web development
+- 🌱 I’m currently learning about machine learning and web development
 - 📫 How to reach me: didanrahmana82@gmail.com
 - ⚡ Fun fact: I'm a Liverpool Fans
 
